@@ -1,5 +1,5 @@
 _repo: The-Family-at-Gilje-A-Domestic-Story-of-the-Forties_55646
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Familien på Gilje. English
 contributor:
   author_of_introduction:
@@ -14,6 +14,9 @@ contributor:
     deathdate: 1917
     gutenberg_agent_id: '48438'
     url: http://www.gutenberg.org/2009/agents/48438
+covers:
+- cover_type: archival
+  image_path: 55646-h/images/cover.jpg
 creator:
   author:
     agent_name: Lie, Jonas
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5095
     wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55646#The-Family-at-Gilje-A-Domestic-Story-of-the-Forties
 gutenberg_issued: '2017-09-29'
 gutenberg_type: Text
 identifiers:
