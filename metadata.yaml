@@ -1,0 +1,40 @@
+_repo: The-Family-at-Gilje-A-Domestic-Story-of-the-Forties_55646
+_version: 0.0.1
+alternative_title: Familien på Gilje. English
+contributor:
+  author_of_introduction:
+    agent_name: Olson, Julius E.
+    alias: Olson, Julius Emil
+    gutenberg_agent_id: '8123'
+    url: http://www.gutenberg.org/2009/agents/8123
+  translator:
+    agent_name: Eastman, Samuel Coffin
+    alias: Eastman, S. C. (Samuel Coffin)
+    birthdate: 1837
+    deathdate: 1917
+    gutenberg_agent_id: '48438'
+    url: http://www.gutenberg.org/2009/agents/48438
+creator:
+  author:
+    agent_name: Lie, Jonas
+    alias: Lie, Jonas Lauritz Idemil
+    birthdate: 1833
+    deathdate: 1908
+    gutenberg_agent_id: '5095'
+    url: http://www.gutenberg.org/2009/agents/5095
+    wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
+description: ''
+gutenberg_issued: '2017-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian fiction -- Translations into English'
+- GITenberg
+title: 'The Family at Gilje: A Domestic Story of the Forties'
+url: http://www.gutenberg.org/ebooks/55646
